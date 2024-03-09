@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21d09bf646b497744a06517b7d9c9ac6, type: 3}
+  m_Name: Explore Happy
+  m_EditorClassIdentifier: 
+  fragmentList:
+  - tag: 00_H_C1
+    id: 0
+    clip_fragment: {fileID: 8300000, guid: 30c6d0a59535c694cbd95a6148c4699a, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278190335
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 01000000010000000100000002000000
+  - tag: 00_H_C2
+    id: 1
+    clip_fragment: {fileID: 8300000, guid: 23d7cb58ce810354d97ffb874c7c2e15, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278208255
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 01000000010000000100000001000000
+  - tag: 00_H_Bb_1
+    id: 2
+    clip_fragment: {fileID: 8300000, guid: 631b691032083914bbb1df4a14030acc, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278225151
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 02000000020000000200000001000000
+  - tag: 00_H_F
+    id: 3
+    clip_fragment: {fileID: 8300000, guid: 59e0faad6b22b0b4c8fb4f156d763499, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278255598
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 03000000030000000300000002000000
+  - tag: 00_H_F
+    id: 4
+    clip_fragment: {fileID: 8300000, guid: dd9823bad416cbb4e8070ff9aab017e6, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278255598
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 03000000030000000300000002000000
+  - tag: 00_H_Bb_2
+    id: 5
+    clip_fragment: {fileID: 8300000, guid: 14ab49b22418bc044bd5e29ceb0ab0a2, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278255501
+    row_channel: 1
+    isChord: 1
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 02000000020000000200000003000000
+  - tag: 00_M_C1
+    id: 6
+    clip_fragment: {fileID: 8300000, guid: a24995f658f98814aba7391628040e9b, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_C1
+    id: 7
+    clip_fragment: {fileID: 8300000, guid: d5119034b297d8b47af89fbe2d0dc2ef, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_C1
+    id: 8
+    clip_fragment: {fileID: 8300000, guid: 60a00a2ca2a28044a8f3c821b087eed6, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_C1
+    id: 9
+    clip_fragment: {fileID: 8300000, guid: e6c7300fa9119d54c98196f211d3e49b, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_C1
+    id: 10
+    clip_fragment: {fileID: 8300000, guid: 61a07b89205aa0e4db012f4faca8b361, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_C1
+    id: 11
+    clip_fragment: {fileID: 8300000, guid: 7406a18ff62a55845a2d6437c49d49c3, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4284572159
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000001000000
+  - tag: 00_M_Bb
+    id: 12
+    clip_fragment: {fileID: 8300000, guid: ea1eec472bd62cd4abb0277073dd075d, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 13
+    clip_fragment: {fileID: 8300000, guid: d8a691e593632b540b5ab653d1dda44a, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 14
+    clip_fragment: {fileID: 8300000, guid: 0f769e23b5166934c9a02699806c0b7e, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 15
+    clip_fragment: {fileID: 8300000, guid: 058ca52e4290ade43b7272bad657ebc9, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 16
+    clip_fragment: {fileID: 8300000, guid: ca91cb74aa8398d4a834abd9768ccb7f, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 17
+    clip_fragment: {fileID: 8300000, guid: fbf4047eb3ca9774b93f3fed63a73713, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 18
+    clip_fragment: {fileID: 8300000, guid: d642c5de89ae21c44a3700df9e95726f, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 19
+    clip_fragment: {fileID: 8300000, guid: 283675f8de146b64bb1cc5e3089f4fe4, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 20
+    clip_fragment: {fileID: 8300000, guid: fc99280be7a4c59479abb3ccf289f8c8, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_Bb
+    id: 21
+    clip_fragment: {fileID: 8300000, guid: 22bc3d58a06308343b6257a8ee2fd2b0, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4285118975
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000020000000200000001000000
+  - tag: 00_M_F
+    id: 22
+    clip_fragment: {fileID: 8300000, guid: fbbec67dbf790c547b7d9cec7cdcc62a, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 23
+    clip_fragment: {fileID: 8300000, guid: af9c672b0a143e342ba074ef9a438c71, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 24
+    clip_fragment: {fileID: 8300000, guid: 60115603a18d4f84f9c0579a75cbaf4f, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 25
+    clip_fragment: {fileID: 8300000, guid: d6be009fadca95b4c81e4f7e0fdeadee, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 26
+    clip_fragment: {fileID: 8300000, guid: 7a8bc9d16d4651b46b837d1c718e0c1b, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 26
+    clip_fragment: {fileID: 8300000, guid: 7a8bc9d16d4651b46b837d1c718e0c1b, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 27
+    clip_fragment: {fileID: 8300000, guid: 9ed2f1267e1ea3544b810ce28b4cf7f9, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 27
+    clip_fragment: {fileID: 8300000, guid: 9ed2f1267e1ea3544b810ce28b4cf7f9, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 28
+    clip_fragment: {fileID: 8300000, guid: 712eddb7c3e8be94487a6b1c0f50e77a, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_F
+    id: 28
+    clip_fragment: {fileID: 8300000, guid: f37ffa33dbe77b6438f5add67c4442e8, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4286185462
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000300000002000000
+  - tag: 00_M_C2
+    id: 29
+    clip_fragment: {fileID: 8300000, guid: a24995f658f98814aba7391628040e9b, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4283531519
+    row_channel: 0
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 00000000010000000100000002000000
+  - tag: 00_B_C_Spi_1
+    id: 30
+    clip_fragment: {fileID: 8300000, guid: 2d1768dd42bbf1049868c684df6fa6e2, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278519182
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 02000000010000000000000002000000
+  - tag: 00_B_C_Spi_2
+    id: 31
+    clip_fragment: {fileID: 8300000, guid: 9bf79bd0897e35f469f806b7665f7d71, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 4278519182
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 02000000010000000000000002000000
+  - tag: 00_B_F_Spi_1
+    id: 32
+    clip_fragment: {fileID: 8300000, guid: 86cfaea429838064cabe3770d632832e, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 65518
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 03000000020000000000000001000000
+  - tag: 00_B_F_Spi_2
+    id: 33
+    clip_fragment: {fileID: 8300000, guid: 9e2febf0c01d6fc49b6ffb11afb9b075, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 65518
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 03000000020000000000000001000000
+  - tag: 00_B_Bb_1
+    id: 34
+    clip_fragment: {fileID: 8300000, guid: e36e6ec9953fd0a43b3bfd1fdffbbca4, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 0
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 01000000010000000000000002000000
+  - tag: 00_B_Bb_2
+    id: 35
+    clip_fragment: {fileID: 8300000, guid: e36e6ec9953fd0a43b3bfd1fdffbbca4, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 0
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 02000000010000000000000002000000
+  - tag: 00_B_Bb_3
+    id: 36
+    clip_fragment: {fileID: 8300000, guid: 0171e0cfadced38419c86f78522fc199, type: 3}
+    ColorFragment:
+      serializedVersion: 2
+      rgba: 0
+    row_channel: 2
+    isChord: 0
+    isSilence: 0
+    isBaseChord: 0
+    Sockets: 03000000010000000000000002000000
+  masterization:
+  - 0.5
+  - 0.6

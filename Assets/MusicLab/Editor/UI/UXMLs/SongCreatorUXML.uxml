@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="Master" style="align-items: center; justify-content: flex-start; width: 100%; height: 100%;">
+        <ui:VisualElement name="Headline" style="width: 100%; height: 80px; align-items: center; justify-content: space-between; flex-direction: row; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+            <ui:VisualElement style="background-image: url(&apos;project://database/Assets/MusicLab/Editor/Images/01LogoBlanco.png?fileID=2800000&amp;guid=2e1401ded2e496b4ba78793319f8b60e&amp;type=3#01LogoBlanco&apos;); width: 20%; height: 100%; -unity-background-scale-mode: scale-to-fit;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-direction: column; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; width: 100%; height: auto; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px; align-items: flex-end;">
+            <ui:DropdownField label="Song genre" index="-1" choices="System.Collections.Generic.List`1[System.String]" name="GenreDrpD" style="margin-left: 0; margin-right: 0; margin-top: 10px; margin-bottom: 0; font-size: 20px; -unity-font-style: bold; height: 30px; width: 100%;" />
+            <ui:DropdownField label="Song mood" index="-1" choices="System.Collections.Generic.List`1[System.String]" name="MoodDrpD" style="margin-left: 0; margin-right: 0; margin-top: 10px; margin-bottom: 0; font-size: 20px; -unity-font-style: bold; height: 30px; width: 100%;" />
+            <ui:Button text="Create song" display-tooltip-when-elided="true" name="CreateSongBtn" style="width: 30%; right: auto; left: 0; margin-top: 10px; height: 40px; background-color: rgba(121, 146, 169, 255); -unity-font-style: bold; font-size: 15px;" />
+        </ui:VisualElement>
+        <ui:Label text="Suuport at: sindri.studios.info@gmail.com" display-tooltip-when-elided="true" style="align-items: center; justify-content: center; bottom: 10px; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>

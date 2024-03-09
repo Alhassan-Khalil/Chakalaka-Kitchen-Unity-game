@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d40792d167366642b1dac7bfe680482, type: 3}
+  m_Name: NoCheeseBurger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: beb50672a88fb3f478f73c96957ba917, type: 2}
+  - {fileID: 11400000, guid: 6b73a3a7a5a7e044e9f08c51f9564e50, type: 2}
+  - {fileID: 11400000, guid: f300f48e6ec5edb42a0788cc40d315b3, type: 2}
+  - {fileID: 11400000, guid: d7b681f56b19e6942bee5e25ba0e569d, type: 2}
+  recipeName: NoCheeseBurger
+  timeLimitMax: 60
+  timeLimit: 48.752525
