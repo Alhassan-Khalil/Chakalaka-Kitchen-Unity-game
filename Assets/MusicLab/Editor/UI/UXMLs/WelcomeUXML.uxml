@@ -1,9 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="Master" style="width: 100%; height: 100%; align-items: center; justify-content: center; background-color: rgba(34, 34, 34, 255);">
-        <ui:Label text="Welcome to" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; font-size: 30px; -unity-font-style: bold; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;" />
-        <ui:VisualElement style="background-image: url(&apos;project://database/Assets/MusicLab/Editor/Images/01LogoBlanco.png?fileID=2800000&amp;guid=2e1401ded2e496b4ba78793319f8b60e&amp;type=3#01LogoBlanco&apos;); width: 511px; height: 239px; -unity-background-scale-mode: stretch-to-fill; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; align-items: stretch; display: flex; visibility: visible; overflow: visible; opacity: 1; min-width: 511px; min-height: 239px;" />
-        <ui:Button text="Continue" display-tooltip-when-elided="true" name="ContinueBtn" style="height: 50px; width: 30%; background-color: rgb(121, 146, 169); color: rgb(34, 34, 34); -unity-font-style: bold; font-size: 18px; margin-top: 20px; min-width: 30%; min-height: 50px;" />
-        <ui:Label text="Epic Sci-Fi Music Library out now!" display-tooltip-when-elided="true" style="margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; -unity-font-style: bold; font-size: 15px;" />
-        <ui:Label text="Suuport at: sindri.studios.info@gmail.com" display-tooltip-when-elided="true" style="margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 3px; -unity-font-style: normal; font-size: 12px;" />
-    </ui:VisualElement>
-</ui:UXML>
