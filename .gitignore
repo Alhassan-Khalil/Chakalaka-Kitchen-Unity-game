@@ -24,7 +24,13 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 /[Aa]ssets/MusicLab
-
+/[Aa]ssets/Kevin Iglesias
+/[Aa]ssets/GabrielAguiarProductions
+/[Aa]ssets/Editor Enhancers Bundle
+/[Aa]ssets/CoffeeShopStarterPack
+/[Aa]ssets/PolygonCity
+/[Aa]ssets/Tiny Giant Studio
+/[Aa]ssets/Plugins
 
 # Visual Studio cache directory
 .vs/
